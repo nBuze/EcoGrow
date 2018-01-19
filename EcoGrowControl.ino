@@ -96,15 +96,3 @@ void showSensors( float temp, float humid, float Lux){
   
    
 }
-
-/*
-void water(){
-if (hour() == //time wanted && minute()== //time){
-myservo.write(waterpos); // we could also do something with the servo motor quickly 
-                         // rotating and pulling the the stopper
-}
-void showtime(){
-lcd.print(hour());
-lcd.setCursor(2,0);
-lcd.print(minute());
-}*/
